@@ -1,0 +1,7 @@
+{
+  "name": "eha-js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
