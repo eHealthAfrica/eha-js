@@ -27,7 +27,7 @@ module.exports = {
     "@typescript-eslint/no-empty-interface": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-unused-vars": ["off", {argsIgnorePattern: "^_"}],
-    "max-len": ["error, {code: 100}"],
+    "max-len": ["error", {code: 100}],
     semi: ["error", "always"],
     "simple-import-sort/imports": "error",
     "simple-import-sort/exports": "error",

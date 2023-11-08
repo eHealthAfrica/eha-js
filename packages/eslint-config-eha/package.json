@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "prepare": ""
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "eslint": "^8.53.0",
